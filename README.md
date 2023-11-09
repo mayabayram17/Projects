@@ -2,4 +2,5 @@
 
 # 1- Research Design: The Uber Case
 # 2- Kaggle Competition: AirBnB
-# 3- Managing Data: Recipe Generator
+# 3- Storytelling: Ollie's Bargain Case
+# 4- Managing Data: Recipe Generator
